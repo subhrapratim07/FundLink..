@@ -1,0 +1,13 @@
+.App-header {
+  background-image: url('bg.png'); /* Ensure the image path points to the public folder */
+  background-size: cover;          /* Makes the image cover the entire container */
+  background-position: center;     /* Centers the image */
+  background-repeat: no-repeat;    /* Prevents the image from repeating */
+  min-height: 100vh;               /* Makes the container take up full viewport height */
+  display: flex;                   /* Enables flexbox layout */
+  flex-direction: column;          /* Align items in a column */
+  align-items: center;             /* Centers items horizontally */
+  justify-content: center;         /* Centers items vertically */
+  font-size: calc(10px + 2vmin);   /* Responsive font size */
+  color: white;                    /* Text color for visibility */
+}
