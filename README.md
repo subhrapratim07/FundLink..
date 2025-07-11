@@ -45,14 +45,6 @@ Currently live for: **Teachers' Day Celebration – 5th September**
 
 ---
 
-## 📸 Screenshots
-
-| Booking Form | QR Code Display | Admin Panel |
-|--------------|------------------|--------------|
-| ![form](screenshots/form.png) | ![qr](screenshots/qr.png) | ![admin](screenshots/admin.png) |
-
----
-
 ## 🛠️ Setup Instructions
 
 🔧 Backend Setup
