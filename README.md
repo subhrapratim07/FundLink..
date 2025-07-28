@@ -48,20 +48,14 @@ Currently live for: **Teachers' Day Celebration – 5th September**
 ## 🛠️ Setup Instructions
 
 🔧 Backend Setup
-bash
-Copy
-Edit
-cd backend
-npm install
-npm start
+- cd backend
+- npm install
+- npm start
 
 🌐 Frontend Setup
-bash
-Copy
-Edit
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 🌍 Live Link
 🔗 https://lnkd.in/gwCFjRKa
